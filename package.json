@@ -1,0 +1,23 @@
+{
+  "name": "hh",
+  "version": "0.0.2",
+  "babel": {
+    "presets": ["es2015"]
+  },
+  "description": "jh",
+  "main": "app.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kkk"
+  },
+  "author": "",
+  "license": "ISC"
+}
